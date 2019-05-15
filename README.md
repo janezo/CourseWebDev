@@ -1,2 +1,2 @@
-# module2-solution
+# CourseWebDev
 for assignment
